@@ -1,0 +1,36 @@
+_repo: Vagabonds-of-the-sea-b-The-campaign-of-a-French-cruiser_70982
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bourne, Randolph Silliman
+    alias: Bourne, Randolph S.
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '54325'
+    url: http://www.gutenberg.org/2009/agents/54325
+    wikipedia: https://en.wikipedia.org/wiki/Randolph_Bourne
+creator:
+  author:
+    agent_name: Milan, René
+    gutenberg_agent_id: '56024'
+    url: http://www.gutenberg.org/2009/agents/56024
+description: ''
+gutenberg_issued: '2023-06-15'
+identifiers:
+  gutenberg: '70982'
+language: en
+pgterms:marc904: https://archive.org/details/vagabondsofseaca00larr
+pgterms:marc905: 20210308121221milan
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bE. P. Dutton & Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vagabonds of the sea : $b The campaign of a French cruiser'
+url: http://www.gutenberg.org/ebooks/70982
